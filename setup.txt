@@ -1,0 +1,25 @@
+STEPS FOR THE PROJECT SETUP
+1. Install local server eg xammp
+
+2. Install composer
+
+3. Install node
+
+4. Extract the zipped folder 
+
+5. Copy it to local disk -> xampp -> htdocs 
+
+6. In your browser, open phpmyadmin
+
+7. Create a database and Import the famstore.sql file in the folder you extracted
+
+8. Open your terminal:
+
+9. Run - npm run dev
+
+10. Run -  php artisan serve
+
+11. Copy the link on your terminal to any browser of your choice
+
+PLEASE PROJECT IS STILL IN PROGRESS
+
